@@ -39,9 +39,8 @@ Python, Hugging Face Transformers, PyTorch, TensorFlow, FastAPI, Flask, Streamli
 Check out the `/assets` folder for wireframes, use-case diagrams, and tech architecture visuals.
 
 ## 🤝 Team
-- [Your Name], AI Developer
-- [Teammate Name], UI/UX Designer
-- [Teammate Name], Backend Engineer
+- Joshitha Chennamsetty
+- Dara Raju
 
 ## 💡 Inspiration
 Our passion for inclusive education and past experience in AI for Impact Hackathon 2024 inspired us to build something practical, scalable, and respectful of India's diverse educational ecosystem.
